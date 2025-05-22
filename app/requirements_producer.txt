@@ -1,0 +1,7 @@
+kafka-python
+
+# Proyek Monitoring Gudang Logistik dengan Kafka dan PySpark (Docker)
+
+Proyek ini mensimulasikan pengiriman data sensor suhu dan kelembaban dari beberapa gudang ke Apache Kafka. Data tersebut kemudian dikonsumsi dan diolah secara real-time menggunakan PySpark Streaming untuk mendeteksi kondisi kritis. Seluruh arsitektur dijalankan menggunakan Docker dan Docker Compose.
+
+## Struktur Proyek
